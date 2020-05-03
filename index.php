@@ -2,7 +2,7 @@
 <html>
    <head>
       <meta charset = "utf-8">
-      <title>Master Title</title>
+      <title>Feature Title</title>
    </head>
 
    <body>
