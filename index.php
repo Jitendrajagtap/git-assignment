@@ -11,7 +11,7 @@
 
       <article>
          <section>
-            This is Section
+            This is section generic code.
          </section>
       </article>
       <aside>This is aside</aside>
